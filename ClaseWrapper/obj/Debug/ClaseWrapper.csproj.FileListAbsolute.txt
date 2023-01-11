@@ -1,0 +1,11 @@
+D:\Proyectos\ClaseWrapper\ClaseWrapper\bin\Debug\ClaseWrapper.exe.config
+D:\Proyectos\ClaseWrapper\ClaseWrapper\bin\Debug\ClaseWrapper.exe
+D:\Proyectos\ClaseWrapper\ClaseWrapper\bin\Debug\ClaseWrapper.pdb
+D:\Proyectos\ClaseWrapper\ClaseWrapper\obj\Debug\ClaseWrapper.csproj.AssemblyReference.cache
+D:\Proyectos\ClaseWrapper\ClaseWrapper\obj\Debug\ClaseWrapper.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\ClaseWrapper\ClaseWrapper\obj\Debug\ClaseWrapper.Form1.resources
+D:\Proyectos\ClaseWrapper\ClaseWrapper\obj\Debug\ClaseWrapper.Properties.Resources.resources
+D:\Proyectos\ClaseWrapper\ClaseWrapper\obj\Debug\ClaseWrapper.csproj.GenerateResource.cache
+D:\Proyectos\ClaseWrapper\ClaseWrapper\obj\Debug\ClaseWrapper.csproj.CoreCompileInputs.cache
+D:\Proyectos\ClaseWrapper\ClaseWrapper\obj\Debug\ClaseWrapper.exe
+D:\Proyectos\ClaseWrapper\ClaseWrapper\obj\Debug\ClaseWrapper.pdb
